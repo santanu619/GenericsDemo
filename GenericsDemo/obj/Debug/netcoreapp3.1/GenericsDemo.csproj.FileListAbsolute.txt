@@ -1,0 +1,13 @@
+C:\Users\SANTANU\source\repos\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.exe
+C:\Users\SANTANU\source\repos\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.deps.json
+C:\Users\SANTANU\source\repos\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.runtimeconfig.json
+C:\Users\SANTANU\source\repos\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.runtimeconfig.dev.json
+C:\Users\SANTANU\source\repos\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.dll
+C:\Users\SANTANU\source\repos\GenericsDemo\GenericsDemo\bin\Debug\netcoreapp3.1\GenericsDemo.pdb
+C:\Users\SANTANU\source\repos\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.csprojAssemblyReference.cache
+C:\Users\SANTANU\source\repos\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.AssemblyInfoInputs.cache
+C:\Users\SANTANU\source\repos\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.AssemblyInfo.cs
+C:\Users\SANTANU\source\repos\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.csproj.CoreCompileInputs.cache
+C:\Users\SANTANU\source\repos\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.dll
+C:\Users\SANTANU\source\repos\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.pdb
+C:\Users\SANTANU\source\repos\GenericsDemo\GenericsDemo\obj\Debug\netcoreapp3.1\GenericsDemo.genruntimeconfig.cache
